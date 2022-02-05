@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Vasanthvvb
-- 👀 I’m interested in developing new and creative things
-- 🌱 I’m currently learning front-end development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I am Vasanth, I am 20 years old
+- 💞️ Interested in developing new creative things
+- 👀 Computer Science Engineering Student
+- 🌱 Learning Front End Development
 
 <!---
 Vasanthvvb/Vasanthvvb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
