@@ -1,7 +1,7 @@
 - 👋 Hi, I am Vasanth, I am 20 years old
 - 💞️ Interested in developing new creative things
 - 👀 Computer Science Engineering Student
-- 🌱 Learning Front End Development
+- 🌱 Learning Frontend Development
 
 <!---
 Vasanthvvb/Vasanthvvb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
